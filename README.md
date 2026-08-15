@@ -1,7 +1,5 @@
 # Social Network – 2-Person Work Split (v2)
 
-Revised split. Changes from v1 are summarised at the bottom.
-
 ---
 
 ## Core Principles
